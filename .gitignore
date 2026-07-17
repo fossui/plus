@@ -1,0 +1,28 @@
+# Dart/Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+doc/api/
+# library package: do not commit the lockfile
+pubspec.lock
+
+# fvm (keep .fvmrc, ignore the local SDK cache/symlink)
+.fvm/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Coverage
+coverage/
+
+# Misc
+*.log
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
